@@ -1,0 +1,5 @@
+{
+  "name": "Tamil Word Editor",
+  "description": "A content-aware word editor with Tamil spell checking, audio transcription, and AI assistance powered by Gemini 3 Flash.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
